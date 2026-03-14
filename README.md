@@ -30,8 +30,9 @@ https://github.com/reveurmichael/jupyter_notebooks_to_fix_by_students
 The repository contains:
 
 * a **Jupyter Notebook lecture**
-* neural network code written using **TensorFlow**
-* slide configuration using **RISE (Reveal.js - Jupyter/IPython Slideshow Extension)**
+* neural network code written using **TensorFlow**, with slide configuration using **RISE (Reveal.js - Jupyter/IPython Slideshow Extension)**
+  * `mnist_train.csv`
+  * `mnist_test.csv`
 
 The notebook corresponds to:
 
