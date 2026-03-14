@@ -1,1 +1,8 @@
 .ipynb_checkpoints/
+
+# Sensitive logs
+*.jsonl
+openclaw-session-log*
+ai-interaction-log*
+*.log
+
